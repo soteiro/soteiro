@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**soteiro/soteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Full Stack Web Developer | Autodidacta
 
-Here are some ideas to get you started:
+💡 Construyendo aplicaciones web modernas con JavaScript/TypeScript y Python
+🛠️ Stack actual: React, Astro, Tailwind CSS, Hono
+📚 Explorando Django y estudiando bases de datos en profundidad
+🎯 Siempre en busca de crear soluciones web eficientes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ stack
+- Frontend: React, Astro, JavaScript, TypeScript, HTML, CSS, Tailwind
+- Backend: Python, Hono, Django (aprendiendo)
+- Bases de datos: Estudiando en profundidad
