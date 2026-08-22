@@ -32,6 +32,7 @@
 > **DISCLAIMER:** README hecho con IA (da flojera escribir esto), pero fiel a la realidad, mis repos jugosos son privados y de mi empresa y no los puedo publicar, saludos !!!
 > 
 > **PD_1:** sigo aprendiendo paso a paso
+> 
 > **PD_2:** probablemente termine en la secta de rust
 
 ---
